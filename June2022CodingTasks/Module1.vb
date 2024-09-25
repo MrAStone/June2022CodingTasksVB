@@ -1,11 +1,9 @@
-﻿Imports System.Diagnostics.Eventing
-Imports System.Net.NetworkInformation
-Imports Microsoft.VisualBasic.ApplicationServices
-
+﻿'https://filestore.aqa.org.uk/sample-papers-and-mark-schemes/2022/june/AQA-85251C-QP-JUN22.PDF
 Module Module1
 
     Sub Main()
-
+        '' using the paper linked above.  Complete the questions below.
+        '' Test by calling the question number
     End Sub
     Sub q3()
         Dim charge As Integer
